@@ -1,0 +1,13 @@
+{
+  "name": "Français 5e — Fiches pédagogiques APC",
+  "short_name": "Français 5e",
+  "description": "Fiches pédagogiques de Français pour la classe de 5e — 7 thèmes",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#F3F0E6",
+  "theme_color": "#1F5C52",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
